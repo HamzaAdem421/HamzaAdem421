@@ -59,11 +59,11 @@ Building plugins & add-ons for popular platforms
 
 📫 Let’s Connect
 
-🌐 Portfolio: Coming soon…
+🌐 Portfolio: https://tahir-adem-fullstack-dev.netlify.app
 
-💼 LinkedIn: [Your LinkedIn Link]
+💼 LinkedIn: https://www.linkedin.com/in/tahir-adem-18482b263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-📧 Email: [Your Email Address]
+📧 Email: ademt0614@gmail.com
 
 
 
