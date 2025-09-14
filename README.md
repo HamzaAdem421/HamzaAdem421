@@ -5,6 +5,11 @@ I craft modern web applications and scalable SaaS products with a mix of clean c
 
 
 ---
+## 📊 GitHub Stats  
+
+![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahirAdem&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahirAdem&layout=compact&theme=radical)
+---
 
 🧑‍💻 About Me
 
